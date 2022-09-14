@@ -1,1 +1,0 @@
-# android-skeleton-piece-java
